@@ -1,0 +1,7 @@
+{
+  "editor.tabSize": 2,
+  "typescriptHero.imports.multiLineTrailingComma": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.tslint": true
+  }
+}
